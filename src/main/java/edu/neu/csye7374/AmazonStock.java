@@ -3,7 +3,7 @@ package edu.neu.csye7374;
 public class AmazonStock extends Stock {
 
 	public AmazonStock(double price) {
-		super("Amazon", price, "Ecommerse and Shopping Mall");
+		super("Amazon", price, "Ecommerce");
 	}
 
 	@Override
